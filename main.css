@@ -1,0 +1,46 @@
+.left{
+	text-align: left;
+	
+	
+	
+}
+.right{
+	text-align:right;
+	
+}
+
+img{
+	float:right;
+	max-width:100%;
+	height: auto; 
+	display:block;
+}
+hr {
+    border: none;
+    height: 3px;
+    color: #7d97ad; 
+    background-color: #7d97ad; 
+}
+h1 h4{
+	color:#2d3c49;
+	
+}
+h4{
+	margin-top: 0px;
+}
+h1 {
+	margin-bottom: 0px;}
+h2{
+	color:#7d97ad;
+	
+}
+h3{
+	text-align: center;
+	margin-top:10px;
+
+}
+p{
+	font-family: sans-serif arial;
+	text-align:center;
+	font-size: medium;
+}
